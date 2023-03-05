@@ -26,3 +26,8 @@ after the validation only home screen comes.
 ![Screenshot (58)](https://user-images.githubusercontent.com/72156896/222986933-e2420bd5-b930-4b19-8790-f4615bb86396.png)
 ![Screenshot (59)](https://user-images.githubusercontent.com/72156896/222986947-c30409fe-7ada-437c-b897-15f8a948fa3a.png)
 ![Screenshot (65)](https://user-images.githubusercontent.com/72156896/222987015-efa7b06c-d5af-472b-a2b2-a8ccce4e2db8.png)
+
+
+# video link
+
+https://www.linkedin.com/posts/vikash-chand28_i-have-developed-a-web-application-using-activity-7038275465958088704-UjHx?utm_source=share&utm_medium=member_desktop
