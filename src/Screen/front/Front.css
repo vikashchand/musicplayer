@@ -1,0 +1,77 @@
+.frontpage{
+    
+    
+    background-color: rgb(53, 16, 73);
+}
+
+.san{
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+
+    color: #e15252;
+}
+
+
+.san:hover{
+  font-size: 50px;
+  font-style: normal;
+ color: #ebdcdc;
+}
+
+
+
+
+  
+  .maintext {
+ 
+   
+    text-align: center;
+  }
+    h1 {
+      
+    position: relative;
+    top: 50%;  
+    width: 24em;
+    margin: 0 auto;
+    border-right: 2px solid rgba(255,255,255,.75);
+    font-size: 40px;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    transform: translateY(-50%); 
+    
+
+    
+}
+   
+    
+  
+
+
+
+.anim-typewriter{
+  animation: typewriter 4s steps(44) 1s 1 normal both,
+             blinkTextCursor 500ms steps(44) infinite normal;
+}
+@keyframes typewriter {
+  from{width: 0;}
+  to{width: 34em;}
+}
+@keyframes blinkTextCursor{
+  from{border-right-color: rgba(255,255,255,.75);}
+  to{border-right-color: transparent;}
+}
+
+@keyframes buttonOpacity {
+  0% {
+    opacity: 0;
+  }
+  80% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+

@@ -1,0 +1,7 @@
+.screen_container{
+    width: calc(100% - 150px);
+    height: 100%;
+    background-color: rgb(255, 220, 177);
+    color: aliceblue;
+    
+}

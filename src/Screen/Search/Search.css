@@ -1,0 +1,73 @@
+.search_bar{
+   height: 10vh;
+   
+
+    display: flex;
+    border-radius: 30px;
+    margin-left: 30px;
+    flex-direction: row;
+    justify-content: center;
+    padding: auto;
+    
+
+}
+
+
+
+
+.hed{
+    background-color: #c9dff7;
+    margin: 0;
+    font-size: 50px;
+    text-align: center;
+    font-style: italic;
+    color: black;
+}
+
+.search_container{
+    background-color:#d2e7ff;;
+   
+}
+
+
+.front-container{
+    background-image: url(../../assets/pexels-blaz-erzetic-2426085.jpg);
+   background-size: cover;
+}
+
+.txtquery{
+    font-size: 30px;
+    border-radius: 20px;
+    width: 70vw;
+    margin-left: 30px;
+    transition: all 1s ease;
+
+}
+
+.txtquery:hover{
+  background-color: #c9dff7;
+}
+
+
+.typewriter h1 {
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid orange; /* The typwriter cursor */
+   /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+    typing 4.5s steps(100, end),
+    blink-caret .75s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
