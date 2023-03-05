@@ -25,9 +25,7 @@ const Nav = () => {
     <SideBarButton/>
     </div>
 
-    <div>
-    <SideBarButton title="Logout" to="" icon={<FiLogOut/>}/ >
-    </div>
+   
 
     </div>
   )
