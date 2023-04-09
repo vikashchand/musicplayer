@@ -1,6 +1,8 @@
 
 # SangeetKhoj
 
+#https://musicplayer-livid.vercel.app/
+
 A react typescript based Musicplay web app for pcs.
 
 It allows user to search the music and add those musics in favourite list and user can also have the playlist of music based on different genres,
